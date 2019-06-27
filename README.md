@@ -1,7 +1,7 @@
 # **CalPriorSNIa**
 ## Effective calibration prior on the absolute magnitude of Supernovas Ia
 
-**CalPriorSNIa** quickly computes the effective calibration prior on the absolute magnitude $M_B$ of the Supernovas Ia used to obtain a given determination of $H_0$. See Camarena & Marra [arXiv:1906.xxxx](https://arxiv.org/abs/1805.09900) for more details.
+**CalPriorSNIa** quickly computes the effective calibration prior on the absolute magnitude M_B of the Supernovas Ia used to obtain a given determination of H_0. See Camarena & Marra [arXiv:1906.xxxx](https://arxiv.org/abs/1805.09900) for more details.
 
 Have fun,
 [Valerio](http://inspirehep.net/author/profile/V.Marra.1)
