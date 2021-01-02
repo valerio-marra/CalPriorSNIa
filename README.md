@@ -7,7 +7,7 @@ Have fun,
 [Valerio](http://inspirehep.net/author/profile/V.Marra.1)
 
 
-## Latest value
+### Latest calibration prior
 
 Using H_0=73.2±1.3 km/s/Mps, which is the latest constraint on H_0 from Riess et al. [arXiv:2012.08534](https://arxiv.org/abs/2012.08534), one obtains:
 
