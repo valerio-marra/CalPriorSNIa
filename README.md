@@ -9,7 +9,7 @@ Have fun,
 
 ### Credits
 
-You can use CalPrior, or part of it, freely, provided that in your publications you acknowledge its use and cite the paper Camarena & Marra [arXiv:1906.11814](https://arxiv.org/abs/1906.11814).
+You can use CalPriorSNIa, or part of it, freely, provided that in your publications you acknowledge its use and cite the paper Camarena & Marra [arXiv:1906.11814](https://arxiv.org/abs/1906.11814).
 
 
 ### Acknowledgements
