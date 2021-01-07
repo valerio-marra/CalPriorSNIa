@@ -7,17 +7,25 @@ Have fun,
 [David](http://inspirehep.net/author/profile/D.Camarena.1) & [Valerio](http://inspirehep.net/author/profile/V.Marra.1)
 
 
-### Latest calibration prior
+### Latest calibration priors
 
-Using H_0=73.2±1.3 km/s/Mps, which is the latest constraint on H_0 from Riess et al. [arXiv:2012.08534](https://arxiv.org/abs/2012.08534), one obtains:
+Here, we list the calibration priors that correspond to the latest H_0 determinations by SH0ES:
 
-    M_B = -19.2421±0.0375 mag
+Riess et al. [arXiv:2012.08534](https://arxiv.org/abs/2012.08534):<br/>
+`H_0 = 73.2 ± 1.3 km/s/Mps ==> M_B = -19.2421 ± 0.0375 mag`
+
+Reid et al. [arXiv:1908.05625](https://arxiv.org/abs/1908.05625):<br/>
+`H_0 = 73.5 ± 1.4 km/s/Mps ==> M_B = -19.2334 ± 0.0404 mag`
+
+Riess et al. [arXiv:1903.07603](https://arxiv.org/abs/1903.07603):<br/>
+`H_0 = 74.03 ± 1.42 km/s/Mps ==> M_B = -19.2178 ± 0.0407 mag`
+
 
 ### Credits
 
 You can use CalPriorSNIa, or part of it, freely, provided that in your publications you acknowledge its use and cite the paper Camarena & Marra [arXiv:1906.11814](https://arxiv.org/abs/1906.11814).
 
 
-### Acknowledgements
+### Acknowledgment
 
-Data..
+We acknowledge the use of the Supercal sample ([Scolnic et al 2015](https://arxiv.org/abs/1508.05361)).
