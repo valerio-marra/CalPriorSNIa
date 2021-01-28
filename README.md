@@ -24,7 +24,7 @@ Supercal dataset ([Scolnic et al 2015](https://arxiv.org/abs/1508.05361)) ==>
 
 ### Statistical analysis
 
-When performing cosmological analyes, instead of using the prior on H_0:
+When performing cosmological inference, instead of using the prior on H_0:
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\chi^2_{H_0}&space;=&space;\frac{\big&space;(H_0-H^{\rm&space;SH0ES}_0&space;\big)^2}{\sigma_{H_0}^2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\chi^2_{H_0}&space;=&space;\frac{\big&space;(H_0-H^{\rm&space;SH0ES}_0&space;\big)^2}{\sigma_{H_0}^2}" title="\chi^2_{H_0} = \frac{\big (H_0-H^{\rm SH0ES}_0 \big)^2}{\sigma_{H_0}^2}" /></a>,
 
