@@ -32,7 +32,7 @@ use the prior on M_B:
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\chi^2_{M_B}&space;=&space;\frac{\big&space;(M_B-M_B^{\rm&space;SH0ES}&space;\big&space;)^2}{\sigma_{M_B}^2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\chi^2_{M_B}&space;=&space;\frac{\big&space;(M_B-M_B^{\rm&space;SH0ES}&space;\big&space;)^2}{\sigma_{M_B}^2}" title="\chi^2_{M_B} = \frac{\big (M_B-M_B^{\rm SH0ES} \big )^2}{\sigma_{M_B}^2}" /></a>.
 
-The prior on the supernova absolute magnitude $M_B$ is to be preferred to the prior on $H_0$ for the following three reasons:<br/>
+The prior on the supernova absolute magnitude M_B is to be preferred to the prior on H_0 for the following three reasons:<br/>
 i) one avoids double counting of low-redshift supernovae,<br/>
 ii) one avoids fixing the deceleration parameter to the standard model value of q_0=-0.55,<br/>
 iii) one includes in the analysis the fact that M_B is constrained by local calibration, an information which would otherwise be neglected in the analysis.
