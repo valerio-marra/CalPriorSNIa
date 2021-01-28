@@ -34,7 +34,7 @@ use the prior on M_B:
 
 The prior on the supernova absolute magnitude M_B is to be preferred to the prior on H_0 for the following three reasons:<br/>
 i) one avoids potential double counting of low-redshift supernovae,<br/>
-ii) one avoids fixing the deceleration parameter to the standard model value of q_0=-0.55,<br/>
+ii) one avoids fixing the deceleration parameter to the standard model value of q_0=-0.55 ([arXiv:2012.08534](https://arxiv.org/abs/2012.08534)),<br/>
 iii) one includes in the analysis the fact that M_B is constrained by local calibration, an information which would otherwise be neglected in the analysis.
 
 
