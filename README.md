@@ -10,7 +10,7 @@ Have fun,
 
 ### Calibration priors
 
-The latest H_0 determination by SH0ES is (Riess et al. [arXiv:2012.08534](https://arxiv.org/abs/2012.08534)):<br/>
+The latest H_0 determination by SH0ES is (Riess et al. [arXiv:2012.08534](https://arxiv.org/abs/2012.08534)):
 `H_0 = 73.2 ± 1.3 km/s/Mpc`
 
 The corresponding calibration priors depend on the supernova dataset that one wants to use for the cosmological analysis:
