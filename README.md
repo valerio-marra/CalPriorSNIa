@@ -15,9 +15,11 @@ The latest H_0 determination by SH0ES is (Riess et al. [arXiv:2012.08534](https:
 
 The corresponding calibration priors depend on the supernova dataset that one wants to use for the cosmological analysis:
 
+DES-SN3YR dataset ([Brout et al 2018](https://arxiv.org/abs/1811.02377)) ==>
+`M_B = -19.2389 ± 0.0336 mag`
+
 Pantheon dataset ([Scolnic et al 2018](https://arxiv.org/abs/1710.00845)) ==>
 `M_B = -19.2435 ± 0.0373 mag`
-
 
 Supercal dataset ([Scolnic et al 2015](https://arxiv.org/abs/1508.05361)) ==>
 `M_B = -19.2421 ± 0.0375 mag`
