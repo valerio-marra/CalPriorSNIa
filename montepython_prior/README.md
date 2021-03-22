@@ -12,7 +12,7 @@ To use the prior on the absolute magnitude of Pantheon supernovae with your mont
 cp -r absolute_M /path-to-your-montepython/montepython/likelihoods/
 
 ```
-The file `Pantheon_and_M.param` contains a naive example on how to use this prior along with the Pantheon likelihood. To update/change the prior on M just edit the file `absolute_M/absolute_M.data`. This current version uses `M_B = -19.2435 ± 0.0373 mag`, which corresponds to the latest H_0 determination by SH0ES (Riess et al. [arXiv:2012.08534](https://arxiv.org/abs/2012.08534)):
+The file `Pantheon_and_M.param` contains a naive example on how to use this prior along with the Pantheon likelihood. To update/change the prior on M just edit the file `absolute_M/absolute_M.data`. The current version uses `M_B = -19.2435 ± 0.0373 mag`, which corresponds to the latest H_0 determination by SH0ES (Riess et al. [arXiv:2012.08534](https://arxiv.org/abs/2012.08534)):
 `H_0 = 73.2 ± 1.3 km/s/Mpc`. It should only be used with Pantheon supernovae. 
 
 ### Credits
