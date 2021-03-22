@@ -13,3 +13,6 @@ cp -r absolute_M /path-to-your-montepython/montepython/likelihoods/
 
 ```
 The file `Pantheon_and_M.param` contains a naive example on how to use this prior along with the Pantheon likelihood. To update/change the prior on M just edit the file `absolute_M/absolute_M.data`. This current version corresponds to `M_B = -19.2435 ± 0.0373 mag` and should be only used with Pantheon supernovae. 
+
+### Credits
+If using this likelihood please cite the papers Camarena & Marra [arXiv:1906.11814](https://arxiv.org/abs/1906.11814) and [arXiv:2101.08641](https://arxiv.org/abs/2101.08641).
