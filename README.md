@@ -40,6 +40,9 @@ ii) one avoids cosmography, in particular fixing the deceleration parameter to t
 iii) one includes in the analysis the fact that M_B is constrained by local calibration, an information which would otherwise be neglected in the analysis.
 
 
+### Monte Python likelihood
+
+Likelihood for [Monte Python](https://github.com/brinckmann/montepython_public)
 
 ### Credits
 
