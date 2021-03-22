@@ -42,7 +42,7 @@ iii) one includes in the analysis the fact that M_B is constrained by local cali
 
 ### Monte Python likelihood
 
-Likelihood for [Monte Python](https://github.com/brinckmann/montepython_public)
+The directory montepython_prior contains the M_B likelihood for [Monte Python](https://github.com/brinckmann/montepython_public) together with a parameter file example.
 
 ### Credits
 
