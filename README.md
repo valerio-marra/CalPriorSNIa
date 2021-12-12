@@ -23,7 +23,7 @@ Pantheon dataset ([Scolnic et al 2018](https://arxiv.org/abs/1710.00845)) ==>
 
 Pantheon+ dataset ([Scolnic et al 2021](https://arxiv.org/abs/2112.03863)) ==>
 `coming...`    
-see ([github.com/PantheonPlusSH0ES](https://github.com/PantheonPlusSH0ES/DataRelease)) for the CosmoSIS likelihood which includes the full covariance matrix between supernovae and calibrators.
+see [github.com/PantheonPlusSH0ES](https://github.com/PantheonPlusSH0ES/DataRelease) for the CosmoSIS likelihood which includes the full covariance matrix between supernovae and calibrators.
 
 ### Statistical analysis
 
