@@ -10,7 +10,7 @@ Have fun,
 
 ### Calibration priors
 
-The latest H_0 determination by SH0ES is (Riess et al. [arXiv:2112.04510](https://arxiv.org/abs/2112.04510)):
+The latest H_0 determination by SH0ES is (Riess et al. [arXiv:2112.04510](https://arxiv.org/abs/2112.04510)):    
 `H_0 = 73.04 ± 1.04 km/s/Mpc`
 
 The corresponding calibration priors depend on the supernova dataset that one wants to use for the cosmological analysis:
@@ -22,7 +22,8 @@ Pantheon dataset ([Scolnic et al 2018](https://arxiv.org/abs/1710.00845)) ==>
 `M_B = -19.2478 ± 0.0294 mag`
 
 Pantheon+ dataset ([Scolnic et al 2021](https://arxiv.org/abs/2112.03863)) ==>
-`coming...` see ([github.com/PantheonPlusSH0ES](https://github.com/PantheonPlusSH0ES/DataRelease)) for the CosmoSIS likelihood which includes the full covariance matrix between supernovae and calibrators.
+`coming...`    
+see ([github.com/PantheonPlusSH0ES](https://github.com/PantheonPlusSH0ES/DataRelease)) for the CosmoSIS likelihood which includes the full covariance matrix between supernovae and calibrators.
 
 ### Statistical analysis
 
