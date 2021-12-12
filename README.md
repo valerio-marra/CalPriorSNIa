@@ -43,7 +43,7 @@ iii) one includes in the analysis the fact that M_B is constrained by local cali
 
 ### Monte Python likelihood
 
-The directory [montepython_prior](https://github.com/valerio-marra/CalPriorSNIa/tree/master/montepython_prior) contains the M_B likelihood for [Monte Python](https://github.com/brinckmann/montepython_public) together with a parameter file example.
+The directory [montepython_prior](https://github.com/valerio-marra/CalPriorSNIa/tree/master/montepython_prior) contains the M_B likelihood for [Monte Python](https://github.com/brinckmann/montepython_public) together with a parameter file example.  Monte Python v3.5 already includes this likelihood.
 
 ### Credits
 
