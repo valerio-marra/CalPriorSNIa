@@ -19,7 +19,7 @@ data.parameters['Omega_cdm'] = [0.2562,  None, None, 0.008,  1, 'cosmo']
 
 # Nuisance parameter list, same call, except the name does not have to be a class name
 
-data.parameters['M']       = [-19.24, None, None, 0.04,  1, 'nuisance']
+data.parameters['M']       = [-19.25, None, None, 0.03,  1, 'nuisance']
 
 # Derived parameters
 

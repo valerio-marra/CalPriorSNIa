@@ -1,6 +1,6 @@
 """
 .. module:: absolute_M
-    :synopsis: Gaussian prior on absolute magnitude of Pantheon supernovae from D. Camarena & V. Marra (arXiv:2101.08641)
+    :synopsis: Gaussian prior on absolute magnitude of Pantheon supernovae, see D. Camarena & V. Marra (arXiv:2101.08641)
 
 .. moduleauthor:: David Camarena <dacato115@gmail.com>
 

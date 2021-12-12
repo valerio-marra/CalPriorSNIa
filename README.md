@@ -10,19 +10,19 @@ Have fun,
 
 ### Calibration priors
 
-The latest H_0 determination by SH0ES is (Riess et al. [arXiv:2012.08534](https://arxiv.org/abs/2012.08534)):
-`H_0 = 73.2 ± 1.3 km/s/Mpc`
+The latest H_0 determination by SH0ES is (Riess et al. [arXiv:2112.04510](https://arxiv.org/abs/2112.04510)):
+`H_0 = 73.04 ± 1.04 km/s/Mpc`
 
 The corresponding calibration priors depend on the supernova dataset that one wants to use for the cosmological analysis:
 
-Supercal dataset ([Scolnic et al 2015](https://arxiv.org/abs/1508.05361)) ==>
-`M_B = -19.2421 ± 0.0375 mag`
+DES-SN3YR dataset ([Brout et al 2018](https://arxiv.org/abs/1811.02377)) ==>
+`M_B = -19.2432 ± 0.0245 mag`
 
 Pantheon dataset ([Scolnic et al 2018](https://arxiv.org/abs/1710.00845)) ==>
-`M_B = -19.2435 ± 0.0373 mag`
+`M_B = -19.2478 ± 0.0294 mag`
 
-DES-SN3YR dataset ([Brout et al 2018](https://arxiv.org/abs/1811.02377)) ==>
-`M_B = -19.2389 ± 0.0336 mag`
+Pantheon+ dataset ([Scolnic et al 2021](https://arxiv.org/abs/2112.03863)) ==>
+`coming...` see ([github.com/PantheonPlusSH0ES](https://github.com/PantheonPlusSH0ES/DataRelease)) for the CosmoSIS likelihood which includes the full covariance matrix between supernovae and calibrators.
 
 ### Statistical analysis
 
@@ -36,7 +36,7 @@ use the prior on M_B:
 
 The prior on the supernova absolute magnitude M_B is to be preferred to the prior on H_0 for the following three reasons:<br/>
 i) one avoids potential double counting of low-redshift supernovae,<br/>
-ii) one avoids cosmography, in particular fixing the deceleration parameter to the standard model value of q_0=-0.55 ([arXiv:2012.08534](https://arxiv.org/abs/2012.08534)),<br/>
+ii) one avoids cosmography, in particular fixing the deceleration parameter to the standard model value of q_0=-0.55 (see [arXiv:2112.04510](https://arxiv.org/abs/2112.04510) for details),<br/>
 iii) one includes in the analysis the fact that M_B is constrained by local calibration, an information which would otherwise be neglected in the analysis.
 
 
